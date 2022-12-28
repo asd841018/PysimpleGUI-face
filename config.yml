@@ -1,0 +1,3 @@
+model : 'backbone/resnet100.onnx'
+fas_model : 'fas_backbone/MobileNetv3.onnx'
+img_dir : 'faces'

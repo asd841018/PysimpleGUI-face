@@ -1,0 +1,6 @@
+numpy
+opencv-python
+ujson
+PySimpleGUI
+mediapipe
+onnxruntime-gpu==1.13.1
